@@ -19,7 +19,7 @@
                 "fields": [
                     {
                         "type": "label",
-                        "label": "Just a little bit of extra info for the user to understand following settings"
+                        "label": "Username and password for paid magnatune subscribers."
                     },
                     {
                         "name": "username",
